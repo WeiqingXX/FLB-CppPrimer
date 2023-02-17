@@ -1,0 +1,6 @@
+[book]
+authors = ["Weiqing"]
+title = "[FLB] C++ Primer"
+language = "en"
+multilingual = false
+src = "src"
